@@ -55,7 +55,7 @@
   
   <br>
   <br>
-  <h2>👨🏻‍💻EDUCATION 👨🏻‍💻 </h2>
+  <h2>👨🏻‍💻 EDUCATION 👨🏻‍💻 </h2>
   <h3> WHAT I DID? </h3>
   <p align=left>
     RESEARCH - 상태기반정비 알고리즘 연구 및 로직 개발 연구 (한화시스템, 2021.05 ~ 2021.09)
