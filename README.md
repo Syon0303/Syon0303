@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/docker%20-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/jenkins%20-D24939.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/aws%20-232F3E.svg?&style=flat-square&logo=amazon&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/aws%20-232F3E.svg?&style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
   
