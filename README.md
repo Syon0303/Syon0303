@@ -1,7 +1,10 @@
-![myTitle](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&width=100%&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=5)
+<div align=center>
+
+![myTitle](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=5)
   
   ## Tech Stack
   ### 
+  
 </div>
 
 <!--
