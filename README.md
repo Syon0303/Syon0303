@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/YOLO%20-%23115A90.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
-  <h2>🌱 Learning 🌱 </h2>
+  <h2>🌱 </h2>
   <p>
     <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
