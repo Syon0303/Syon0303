@@ -8,6 +8,9 @@
   "Towards T-shaped talent"
   </p>
   
+  <br>
+  <br>
+  <br>
   <h2>✨ Tech Stack ✨ </h2>
   <h3> Language </h3>
   <p>
