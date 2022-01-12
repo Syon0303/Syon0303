@@ -21,8 +21,8 @@
   <h2>🌱 </h2>
   <p>
     <img src="https://img.shields.io/badge/spring%20-%232C5263.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
-    <img src ="https://img.shields.io/badge/springboot%20-%230066A0.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
-    <img src ="https://img.shields.io/badge/vue.js%20-%2315619A.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
+    <img src ="https://img.shields.io/badge/springboot%20-%236266A0.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
+    <img src ="https://img.shields.io/badge/vue.js%20-%2388619A.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
 </div>
