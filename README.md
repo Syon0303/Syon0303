@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/spring%20-%232C5263.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/springboot%20-%23FF66A0.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/vue.js%20-%2388619A.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
+    <img src ="https://img.shields.io/badge/vue.js%20-000000.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
   <br>
