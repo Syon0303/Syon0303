@@ -1,4 +1,4 @@
-[(https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=10)(https://github.com/Syon0303)]
+![https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=10](https://github.com/Syon0303)
 
 ## Tech Stack
 ### 
