@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=5)
   
+  <h3> 👋 Hi there,</h3>
+  <p>
+  I'm Siheon Kim, a backend developer. 🌱 <br>
+  "Towards T-shaped talent!"
+  </p>
+  
   <h2>✨ Tech Stack ✨ </h2>
   <h3> Language </h3>
   <p>
