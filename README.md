@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/jupyter%20-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/YOLO%20-%23115A90.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/YOLOv5%20-598DF2.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
   <br>
@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/docker%20-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/jenkins%20-D24939.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/aws%20-232F3E.svg?&style=flat-square&logo=aws&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
   
