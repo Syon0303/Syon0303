@@ -1,13 +1,14 @@
 <div align=center>
 
-![myTitle](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=5)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=5)
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Syon0303&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syon0303&layout=compact&theme=dracula)](https://github.com/Syon0303)
-  
-  ## Tech Stack
-  ### 
+  <h3>✨ Tech Stack ✨ </h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/tensorflow%20-%23FF9900.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
+</p>
   
 </div>
 
