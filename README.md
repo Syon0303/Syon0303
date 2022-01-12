@@ -5,7 +5,7 @@
   <h3> 👋 Hi there,</h3>
   <p>
   I'm Siheon Kim, a backend developer. 🌱 <br>
-  "Towards T-shaped talent"
+    <B>"Towards T-shaped talent"</B>
   </p>
   
   <br>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/C++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
-  <h3> etc </h3>
+  <h3> etc. </h3>
   <p>
     <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
