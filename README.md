@@ -4,8 +4,12 @@
   
   <h3> 👋 Hi there,</h3>
   <p>
-  I'm Siheon Kim, a backend developer. 🌱 <br>
+    I'm Siheon Kim, a backend developer. 🌱 <br>
     <B>"Towards T-shaped talent"</B>
+    <A href="https://Syon0303.github.io/"><img src="https://img.shields.io/badge/blog%20-181717.svg?&style=flat-square&logo=github&logoColor=white"/></A>&nbsp;&nbsp;
+    <A href="https://https://www.linkedin.com/in/syon0303/"><img src="https://img.shields.io/badge/LinkedIn%20-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></A>&nbsp;&nbsp;
+    <A href="syon03@gmail.com"><img src="https://img.shields.io/badge/E-MAIL%20-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></A>&nbsp;&nbsp;
+    
   </p>
   
   <br>
@@ -63,7 +67,7 @@
     
   <h3> AFFILIATION </h3>
   <p align=left>
-    SSAFY - 삼성 청년 SW 아카데미 7기 교육생 (22.01.03 ~ )
+    SSAFY - 삼성 청년 SW 아카데미 7기 교육생 (2022.01 ~ )
     <br>
     LAB - 금오공과대학교 기계시스템공학과 국방신뢰성 실험실 외부연구원 (2021.05 ~ 2021.09)
     <br>
