@@ -51,7 +51,7 @@
     
   </p>
     
-  <h3> ON-CAMPUS ACTIVITY </h3>
+  <h3> AFFILIATION </h3>
   <p align=left>
     SSAFY - 삼성 청년 SW 아카데미 7기 교육생 (22.01.03 ~ )
     <br>
