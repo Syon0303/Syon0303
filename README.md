@@ -1,9 +1,9 @@
-![](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=10)
+<div align="center">
+  ![](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=S%20Y%20O%20N&fontSize=100&rotate=5)
 
-## Tech Stack
-### 
-  
-  
+  ## Tech Stack
+  ### 
+</div>
 
 <!--
 **Syon0303/Syon0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
