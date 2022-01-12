@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/YOLO%20-%23115A90.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
-  <h2>🌱 </h2>
+  <h2>🌱 IN SSAFY 🌱 </h2>
   <p>
     <img src="https://img.shields.io/badge/spring%20-%232C5263.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/springboot%20-%23FF66A0.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
