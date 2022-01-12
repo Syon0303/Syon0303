@@ -10,7 +10,7 @@
     <br>
     <A href="https://www.linkedin.com/in/syon0303/"><img src="https://img.shields.io/badge/LinkedIn%20-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></A>&nbsp;&nbsp;
     <A href="syon03@gmail.com"><img src="https://img.shields.io/badge/Email%20-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></A>&nbsp;&nbsp;
-    <A href="https://Syon0303.github.io/"><img src="https://img.shields.io/badge/blog%20-181717.svg?&style=flat-square&logo=github&logoColor=white"/></A>&nbsp;&nbsp;
+    <A href="Syon0303.github.io/"><img src="https://img.shields.io/badge/blog%20-181717.svg?&style=flat-square&logo=github&logoColor=white"/></A>&nbsp;&nbsp;
     
   </p>
   
