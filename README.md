@@ -5,7 +5,7 @@
   <h3> 👋 Hi there,</h3>
   <p>
   I'm Siheon Kim, a backend developer. 🌱 <br>
-  "Towards T-shaped talent!"
+  "Towards T-shaped talent"
   </p>
   
   <h2>✨ Tech Stack ✨ </h2>
