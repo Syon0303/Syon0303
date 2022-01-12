@@ -15,7 +15,7 @@
   <p>
     <img src="https://img.shields.io/badge/tensorflow%20-%23593d88.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/mysql%20-%23F559900.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jsp%20-%23F559900.svg?&style=for-the-badge&logo=jsp&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/jsp%20-%23F151900.svg?&style=for-the-badge&logo=jsp&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
   <h2>🌱 Learning 🌱 </h2>
