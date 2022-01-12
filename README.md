@@ -29,7 +29,15 @@
   
   <br>
   <br>
-  <h2>👨🏻‍💻 Brief History 👨🏻‍💻 </h2>
+  
+  <h2> PUBLICATION & CERTIFICATE </h2>
+  <p align=left>
+    CERT - 정보처리기사 (한국산업인력공단, 2021.06)
+    <br>
+    PUB - YOLO-v5 모델을 이용한 실시간 도난 감지 시스템 (한국정보과학회, 2021.06)
+  </p>
+    
+  <h2>👨🏻‍💻 EDUCATION & ON-CAMPUS ACTIVITY 👨🏻‍💻 </h2>
   <p align=left>
     SSAFY - 삼성 청년 SW 아카데미 7기 교육생 (22.01.03 ~ )
     <br>
@@ -40,7 +48,7 @@
     LAB - 금오공과대학교 컴퓨터소프트웨어공학과 인공지능 연구실 학부연구원 (19.03.02 ~ 21.06.30)
     <br>
     UNIV - 금오공과대학교 컴퓨터소프트웨어공학과 졸업 (15.03.02 ~ 21.08.20)
-    
+  </p>
 </div>
 
 <!--
