@@ -14,7 +14,7 @@
   <h3> etc </h3>
   <p>
     <img src="https://img.shields.io/badge/TF-%23593d88.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/mysql%20-%23F59900.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/mysql%20-%c3c595.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/YOLO%20-%23115A90.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
