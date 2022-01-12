@@ -30,14 +30,15 @@
   
   <br>
   <br>
-  <h2>🌱 IN SSAFY 🌱 </h2>
+  <h2>🌱 WILL LEARN 🌱 </h2>
+  <h3>IN SSAFY </h3>
   <p>
     <img src="https://img.shields.io/badge/spring%20-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/springboot%20-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/vue.js%20-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
-  <h3> WILL TEACH MYSELF </h3>
+  <h3>MYSELF </h3>
   <p>
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/docker%20-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
