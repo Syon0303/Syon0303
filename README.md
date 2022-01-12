@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/C++%20-%23FF9900.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
-  <h2> etc </h2>
+  <h3> etc </h3>
   <p>
     <img src="https://img.shields.io/badge/TF-%23593d88.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/mysql%20-%23F59900.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
