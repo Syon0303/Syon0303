@@ -94,4 +94,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://shields.io/
+https://simpleicons.org/
+https://github.com/kyechan99/capsule-render
+
 -->
