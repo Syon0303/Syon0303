@@ -22,6 +22,7 @@
   <p>
     <img src="https://img.shields.io/badge/spring%20-%232C5263.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/springboot%20-23316192.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
+    <img src ="https://img.shields.io/badge/vue.js%20-23156192.svg?&style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
 </div>
