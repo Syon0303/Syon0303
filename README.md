@@ -4,19 +4,19 @@
   
   <h3> 👋 Hi there,</h3>
   <p>
-    I'm Siheon Kim, a backend developer. 🌱 <br>
+    I'm Siheon Kim, a backend developer. 🌱 <br/>
     <B>"Towards T-shaped talent"</B>
-    <br>
-    <br>
+    <br/>
+    <br/>
     <A href="https://www.linkedin.com/in/syon0303/"><img src="https://img.shields.io/badge/LinkedIn%20-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></A>&nbsp;&nbsp;
     <A href="mailto:syon03@gmail.com"><img src="https://img.shields.io/badge/Email%20-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></A>&nbsp;&nbsp;
     <A href="https://Syon0303.github.io/"><img src="https://img.shields.io/badge/blog%20-181717.svg?&style=flat-square&logo=github&logoColor=white"/></A>&nbsp;&nbsp;
     
   </p>
   
-  <br>
-  <br>
-  <br>
+  <br/>
+  <br/>
+  <br/>
   <h2>✨ Tech Stack ✨ </h2>
   <h3> Language </h3>
   <p>
@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/YOLOv5%20-598DF2.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
   </p>
   
-  <br>
-  <br>
+  <br/>
+  <br/>
   <h2>🌱 WILL LEARN 🌱 </h2>
   <h3>In SSAFY </h3>
   <p>
@@ -53,30 +53,30 @@
   </p>
   
   
-  <br>
-  <br>
+  <br/>
+  <br/>
   <h2>👨🏻‍💻 EDUCATION 👨🏻‍💻 </h2>
   <h3> WHAT I DID? </h3>
   <p align=left>
     RESEARCH - 상태기반정비 알고리즘 연구 및 로직 개발 연구 (한화시스템, 2021.05 ~ 2021.09)
-    <br>
+    <br/>
     CERTIFICATE - 정보처리기사 (한국산업인력공단, 2021.06)
-    <br>
+    <br/>
     PUBLICATION - YOLO-v5 모델을 이용한 실시간 도난 감지 시스템 (한국정보과학회, 2021.06)
-    <br>
+    <br/>
     
   </p>
     
   <h3> AFFILIATION </h3>
   <p align=left>
     SSAFY - 삼성 청년 SW 아카데미 7기 교육생 (2022.01 ~ )
-    <br>
+    <br/>
     LAB - 금오공과대학교 기계시스템공학과 국방신뢰성 실험실 외부연구원 (2021.05 ~ 2021.09)
-    <br>
+    <br/>
     LAB - 금오공과대학교 컴퓨터소프트웨어공학과 인공지능 연구실 학부연구실장 (2020.03 ~ 2021.06)
-    <br>
+    <br/>
     LAB - 금오공과대학교 컴퓨터소프트웨어공학과 인공지능 연구실 학부연구원 (2019.03 ~ 2020.02)
-    <br>
+    <br/>
     UNIV - 금오공과대학교 컴퓨터소프트웨어공학과 졸업 (2015.03 ~ 2021.08)
   </p>
 </div>
