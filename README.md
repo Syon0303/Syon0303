@@ -21,7 +21,6 @@
   <h3> Language </h3>
   <p>
     <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/swift%20-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/java%20-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/C++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </p>
