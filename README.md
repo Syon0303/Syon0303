@@ -5,7 +5,7 @@
   <h3> 👋 Hi there,</h3>
   <p>
     I'm Siheon Kim ! 🌱 <br/>
-    <B>"Towards T-shaped talent"</B>
+    <B>"Towards Project Manager ! 🌱"</B>
     <br/>
     <br/>
     <A href="https://www.linkedin.com/in/syon0303/"><img src="https://img.shields.io/badge/LinkedIn%20-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></A>&nbsp;&nbsp;
