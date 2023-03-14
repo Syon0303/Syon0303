@@ -35,7 +35,7 @@
     <img src ="https://img.shields.io/badge/vue.js%20-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white"/>
   </p>
   
-    <h3>In University </h3>
+  <h3>In University </h3>
   <p>
     <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
