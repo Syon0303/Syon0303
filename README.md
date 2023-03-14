@@ -37,10 +37,10 @@
   
   <h3>In University </h3>
   <p>
-    <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jupyter%20-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/YOLOv5%20-598DF2.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/jupyter%20-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/YOLOv5%20-598DF2.svg?&style=flat-square&logo=yolo&logoColor=white"/>
   </p>
   
   <br/>
