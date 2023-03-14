@@ -20,9 +20,9 @@
   <h2>✨ Tech Stack ✨ </h2>
   <h3> Published </h3>
   <p>
-    <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/java%20-007396.svg?&style=for-the-badge&logo=XBox&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/java%20-007396.svg?&style=for-the-badge&logo=Steam&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Playstation%20-3776AB.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Xbox%20-007396.svg?&style=for-the-badge&logo=XBox&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/steam%20-007396.svg?&style=for-the-badge&logo=Steam&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   </p>
   
   <h3> etc. </h3>
