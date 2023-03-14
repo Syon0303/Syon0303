@@ -5,7 +5,7 @@
   <h3> 👋 Hi there,</h3>
   <p>
     I'm Siheon Kim ! 🌱 <br/>
-    <B>"Towards Project Manager"</B>
+    <B>"Towards Technical Project Manager"</B>
     <br/>
     <br/>
     <A href="https://www.linkedin.com/in/syon0303/"><img src="https://img.shields.io/badge/LinkedIn%20-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=white"/></A>&nbsp;&nbsp;
@@ -18,11 +18,11 @@
   <br/>
   <br/>
   <h2>✨ Tech Stack ✨ </h2>
-  <h3> Language </h3>
+  <h3> Published </h3>
   <p>
-    <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/java%20-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/java%20-007396.svg?&style=for-the-badge&logo=XBox&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/java%20-007396.svg?&style=for-the-badge&logo=Steam&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   </p>
   
   <h3> etc. </h3>
@@ -35,20 +35,12 @@
   
   <br/>
   <br/>
-  <h2>🌱 WILL LEARN 🌱 </h2>
+  <h2>🌱 ALREADY LEARNED 🌱 </h2>
   <h3>In SSAFY </h3>
   <p>
     <img src="https://img.shields.io/badge/spring%20-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/springboot%20-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
     <img src ="https://img.shields.io/badge/vue.js%20-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white"/>
-  </p>
-  
-  <h3>On My Own </h3>
-  <p>
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/docker%20-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jenkins%20-D24939.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/aws%20-232F3E.svg?&style=flat-square&logo=amazonaws&logoColor=white"/>
   </p>
   
   
