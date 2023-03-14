@@ -21,16 +21,8 @@
   <h3> Published </h3>
   <p>
     <img src="https://img.shields.io/badge/Playstation%20-3776AB.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Xbox%20-007396.svg?&style=for-the-badge&logo=XBox&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/steam%20-007396.svg?&style=for-the-badge&logo=Steam&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  </p>
-  
-  <h3> etc. </h3>
-  <p>
-    <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jupyter%20-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/YOLOv5%20-598DF2.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xbox%20-4419A1.svg?&style=for-the-badge&logo=XBox&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/steam%20-FA7626.svg?&style=for-the-badge&logo=Steam&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   </p>
   
   <br/>
@@ -43,6 +35,13 @@
     <img src ="https://img.shields.io/badge/vue.js%20-4FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white"/>
   </p>
   
+    <h3>In University </h3>
+  <p>
+    <img src="https://img.shields.io/badge/TF-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/mysql%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/jupyter%20-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/YOLOv5%20-598DF2.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>
+  </p>
   
   <br/>
 </div>
